@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Participant - Taraka rathna</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header>
+        <h1>Participant Details - Taraka rathna</h1>
+    </header>
+    <nav>
+        <div class="navbar">
+            <a href="../index.html">Home</a>
+            <a href="../daily-reports.html">Daily Reports</a>
+            <div class="dropdown">
+                <button class="dropbtn">Participants</button>
+                <div class="dropdown-content">
+                    <a href="participant-1.html">C Revanth kumar</a>
+                    <a href="participant-2.html">J Kushal kumar</a>
+                    <a href="participant-3.html">Veda sree</a>
+                    <a href="participant-4.html">Taraka rathna</a>
+                    <a href="participant-5.html">Kiran kumar</a>
+                    <!-- Add more participants as needed -->
+                </div>
+            </div>
+            <a href="../department.html">Department</a>
+        </div>
+    </nav>
+    <div class="container">
+        <section>
+            <h2>Participant Information</h2>
+            <p><strong>Name:</strong> Taraka rathna</p>
+            <p><strong>Roll Number:</strong> 224C1A3064</p>
+            <p><strong>Branch:</strong> Artificial Intelligence & Data Science (AI&DS)</p>
+            <p><strong>Semester:</strong> 3rd Year & 1 Semester</p>
+            <p><strong>Location:</strong> Tirupati</p>
+        </section>
+    </div>
+    <footer>
+        <p>Copyright &copy; 2024 C Revanth kumar | organic farming - Community Service Project. All rights reserved.</p>
+    </footer>
+</body>
+</html>
